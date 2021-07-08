@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipKalts
 - 👀 I’m interested in programming in Unity
-- 💞️ I’m looking for a job as a Junior Programmer
+- 💞️ I’m a programmer in TakeBack Studios
 - 📫 You can reach me via this email: philkalts@gmail.com
 
 <!---
