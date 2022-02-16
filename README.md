@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PhilipKalts
+- 💻 I'm the lead Developer/Programmer of Takeback Studios
 - 👀 I’m interested in programming in Unity
 - 💞️ I’m a programmer in TakeBack Studios
 - 📫 You can reach me via this email: philkalts@gmail.com
