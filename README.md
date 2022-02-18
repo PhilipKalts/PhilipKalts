@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PhilipKalts
 - 💻 I'm the lead Developer/Programmer of Takeback Studios
-- 👀 My portfolio is https://philipkaltsounis.com
 - 💞️ I’m a programmer in TakeBack Studios
 - 📫 You can reach me via this email: philkalts@gmail.com
 - 💎 You can view my portfolio here: philipkaltsounis.com
