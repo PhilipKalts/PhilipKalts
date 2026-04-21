@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Philip Kaltsounis
-- 💻 I'm a Unity Developer at Traptics
+- 💻 I'm a C# programmer and a Unity Developer
 - 📫 You can reach me via this email: philip.kaltsounis@gmail.com
 - 💎 You can view my portfolio here: philipkaltsounis.com
 
